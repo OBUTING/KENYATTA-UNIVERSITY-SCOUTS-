@@ -1,0 +1,56 @@
+        .carousel-item img {
+            height: 500px;
+            object-fit: cover;
+        }
+        .navbar-brand {
+            font-weight: bold;
+        }
+        footer {
+            background-color: #006400;
+            color: white;
+        }
+        body {
+            background-color: #f8f9fa;
+        }
+        .section-title {
+            font-weight: bold;
+            color: #2c3e50;
+        }
+        .card {
+            transition: transform 0.3s;
+        }
+        .card:hover {
+            transform: translateY(-5px);
+        }
+            .social-icons {
+            display: flex;
+            justify-content: center;
+            gap: 1.5rem;
+            padding: 2rem 0;
+        }
+        .social-icons a {
+            font-size: 2rem;
+            color: #333;
+            transition: color 0.3s, transform 0.3s;
+        }
+        .social-icons a:hover {
+            transform: scale(1.2);
+        }
+        .bi-linkedin:hover {
+            color: #0077b5;
+        }
+        .bi-twitter-x:hover {
+            color: #000000;
+        }
+        .bi-instagram:hover {
+            color: #e4405f;
+        }
+        .bi-facebook:hover {
+            color: #1877f2;
+        }
+        .bi-tiktok:hover {
+            color: #000000;
+        }
+        footer {
+            background-color: #f8f9fa;
+        }
